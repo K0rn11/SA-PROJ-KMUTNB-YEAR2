@@ -6,7 +6,7 @@
 npm install
 ```
 
-4. Run project
+2. Run project
 
 ```bash
 npm run dev
